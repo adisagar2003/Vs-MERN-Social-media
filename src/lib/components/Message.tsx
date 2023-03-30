@@ -10,7 +10,7 @@ function Message(props:Message) {
 
 
   return (
-    <Box bg={props.owner==currentUserId ? 'teal':'orange'} maxWidth="60%" padding={50} w='fit-content' borderRadius={'30px'}  position='relative' right={props.owner==currentUserId ? '0px':'-150px'}  p={4} color='white'>
+    <Box bg={props.owner==currentUserId ? 'teal':'orange'} maxWidth="60%" paddingBottom={30} w='fit-content' borderRadius={'30px'}  position='relative' right={props.owner==currentUserId ? '0px':'-150px'}  p={4} color='white'>
   <Text padding={4}> {props.message}</Text> 
     <Text isTruncated noOfLines={1} position={'absolute'} fontSize="14px" fontWeight={300} right="20px" bottom="10px">{props.firstName}</Text>
   </Box>

@@ -180,7 +180,7 @@ function addPerson(){
           <ModalHeader>Participants</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
-          {conversationParticipants.data.map((element)=>{
+          {conversationParticipants.data.map((element:any)=>{
             return (<Text>{element.firstName} - {element.email}</Text>)
           })}
           </ModalBody>

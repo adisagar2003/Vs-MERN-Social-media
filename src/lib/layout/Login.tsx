@@ -54,6 +54,9 @@ export default function Login(){
       .catch(function (error) {
         console.log(error.response.data.error);
         setError(error.response.data.error);
+      setLoading(false);
+      setEmail("");
+      setPassword("");
       });
       
     }
