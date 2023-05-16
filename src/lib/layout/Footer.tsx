@@ -11,7 +11,7 @@ const Footer = () => {
     >
       <Text fontSize="xs">
         {new Date().getFullYear()} -{" "}
-        <Link href="https://sznm.dev" isExternal>
+        <Link href="https://github.com/adisagar2003" isExternal>
           Aditya Sagar
         </Link>
       </Text>
