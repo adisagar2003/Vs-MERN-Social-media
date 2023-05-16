@@ -4,6 +4,12 @@
 ![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/002e41ec-87d8-4179-9fd9-729dc818a180)
 
 ![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/4a151191-0f53-42da-b8f4-f036363e8de7)
+![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/9725c31d-8643-4134-8a2d-5dc2bd988c00)
+
+
+# Uploading 
+
+![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d1481599-80cd-4241-9c76-ed8c6d8922c2)
 
 
 # Messaging
