@@ -1,5 +1,7 @@
 ## MERN SOCIAL MEDIA APP WITH REALTIME CHAT
-
+**Sample User: 
+username:user@gmail.com
+password:password**
 # Home
 ![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/002e41ec-87d8-4179-9fd9-729dc818a180)
 
