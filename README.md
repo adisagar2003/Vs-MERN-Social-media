@@ -1,39 +1,72 @@
-## MERN SOCIAL MEDIA APP WITH REALTIME CHAT
-**Sample User: 
-username:user@gmail.com
-password:password**
-# Home
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/002e41ec-87d8-4179-9fd9-729dc818a180)
+# VS MERN Social Media App
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/4a151191-0f53-42da-b8f4-f036363e8de7)
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/9725c31d-8643-4134-8a2d-5dc2bd988c00)
+A full-stack **social media platform** built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with real-time chat functionality, post sharing, likes, follow system, and more.
 
+📁 [Backend Repository](https://github.com/adisagar2003/Vs-MERN-Social-media)
 
-# Uploading 
+---
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d1481599-80cd-4241-9c76-ed8c6d8922c2)
+## 🧪 Sample Credentials
 
+**User:** `user@gmail.com`  
+**Password:** `password`
 
-# Messaging
+---
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/ae82c9cc-8512-480a-8b9a-dd0e1e29cda9)
+## 📸 Features Overview
 
-# Like/Unlike Functionality
+### 🏠 Home Feed
+Displays posts from followed users, sorted by latest.
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d51dacb1-2be0-49f4-9c7c-eb99aa71d391)
+![Home Feed](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/002e41ec-87d8-4179-9fd9-729dc818a180)
+![Posts](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/4a151191-0f53-42da-b8f4-f036363e8de7)
 
+---
 
-# Follow/Unfollow Functionality
+### 📤 Uploading Posts
+Upload text + image content using a simple and intuitive UI.
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/9dc4816d-ca97-4b90-be51-e181d907a22d)
+![Upload](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d1481599-80cd-4241-9c76-ed8c6d8922c2)
 
+---
 
-## Tech Stack
+### 💬 Real-time Messaging
+Private chat system with WebSocket-based real-time updates.
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/926315d3-a275-4ffd-9f65-d83386d7fbd4)
+![Messaging](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/ae82c9cc-8512-480a-8b9a-dd0e1e29cda9)
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d961964a-fed1-44fa-afc7-969f06339c52)
+---
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/b6df0245-9c6e-48b6-852c-bf81690cb8b3)
+### ❤️ Like / Unlike Posts
+React to posts with likes, tracked in real time.
 
-![image](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/84e490cd-a0e3-4b5d-bd71-cb027bb29407)
+![Likes](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/d51dacb1-2be0-49f4-9c7c-eb99aa71d391)
+
+---
+
+### ➕ Follow / Unfollow Users
+Dynamic social graph with follower count and interaction tracking.
+
+![Follow System](https://github.com/adisagar2003/Vs-MERN-Social-media/assets/69413640/9dc4816d-ca97-4b90-be51-e181d907a22d)
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+- **Node.js** & **Express.js**
+- **MongoDB** with Mongoose
+- **Socket.IO** for real-time messaging
+- **JWT** Authentication
+- REST API architecture
+
+### 💻 Frontend
+- **React.js**
+- **Redux Toolkit** for state management
+- **Axios** for API calls
+- Responsive CSS & Styled Components
+
+---
+
+## 🧩 Project Structure
+
