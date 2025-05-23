@@ -2,7 +2,7 @@
 
 A full-stack **social media platform** built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with real-time chat functionality, post sharing, likes, follow system, and more.
 
-📁 [Backend Repository]([https://github.com/adisagar2003/Vs-MERN-Social-media](https://github.com/adisagar2003/mern-social-media-realtime-app))
+📁 [Backend Repository]([https://github.com/adisagar2003/Vs-MERN-Social-media](https://github.com/adisagar2003/mern-social-media-realtime-app)
 
 ---
 
